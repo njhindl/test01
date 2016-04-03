@@ -1,0 +1,4 @@
+
+03/04/16
+
+Testing drag n' drop feature from local desktop
